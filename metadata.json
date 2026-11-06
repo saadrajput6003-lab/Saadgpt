@@ -1,0 +1,6 @@
+{
+  "name": "SaadGPT",
+  "description": "Premium multi-modal AI platform with real-time intelligence, Image & Video Studios, Voice synthesis, Study & Coding modes, and Deep Research.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
